@@ -24,5 +24,6 @@ $message = "¡Hola, mundo! Esta es una página generada con PHP.";
 <body>
     <h1><?php echo $title; ?></h1>
     <p><?php echo $message; ?></p>
+    <p>Holaaaaaa</p>
 </body>
 </html>
